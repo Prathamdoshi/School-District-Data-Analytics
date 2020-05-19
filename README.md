@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this project was to understand the school data of the school district. The game data was provided by UC Berkeley extension to further master and practice analysis using Pandas. 
+The purpose of this project was to understand the school data of the school district. The district data was provided by UC Berkeley extension to further master and practice analysis using Pandas. 
 
 ## Objective 
  
