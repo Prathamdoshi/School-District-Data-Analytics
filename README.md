@@ -39,6 +39,8 @@ The analysis was peformed to understand the quantative data and indicate the out
 ## Report 
 `PDF/HTML can be found in the 'Reports' Folder.`
 
+`Please see the HTML version for the best readability.`
+
 **Below is the markdown version:**
 
 ## School District Report
